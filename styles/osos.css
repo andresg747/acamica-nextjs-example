@@ -1,0 +1,7 @@
+.ant-table-thead {
+  background-color: yellow;
+}
+
+.ant-table-small .ant-table-thead > tr > th {
+  background-color: transparent;
+}
